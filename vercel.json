@@ -1,0 +1,14 @@
+{
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/data-deletion", "destination": "/data-deletion.html" },
+    { "source": "/terms", "destination": "/terms.html" },
+    { "source": "/tools/text-analyzer", "destination": "/tools/text-analyzer.html" },
+    { "source": "/tools/dday-calculator", "destination": "/tools/dday-calculator.html" },
+    { "source": "/tools/qr-generator", "destination": "/tools/qr-generator.html" },
+    { "source": "/tools/color-converter", "destination": "/tools/color-converter.html" },
+    { "source": "/tools/password-generator", "destination": "/tools/password-generator.html" }
+  ]
+}

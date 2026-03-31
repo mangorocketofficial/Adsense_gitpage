@@ -48,6 +48,7 @@ yarn-error.log*
 
 # Optional: Node modules (if you use local dev servers)
 node_modules/
+.vercel/
 package-lock.json
 yarn.lock
 
